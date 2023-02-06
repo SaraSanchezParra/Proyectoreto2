@@ -1,0 +1,4 @@
+#Ignorar carpeta reto_2 y todas las imágenes
+
+*.png
+Reto_2
